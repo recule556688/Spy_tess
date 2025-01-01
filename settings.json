@@ -1,0 +1,14 @@
+{
+    "1321594106027184150": {
+        "preferred_channel": 1322087256491819090,
+        "transcription_channel": 1321594106639810613,
+        "response_channel": 1321594106639810612
+    },
+    "auto_join_enabled": true,
+    "1282371819642290308": {
+        "preferred_channel": 1323445113958957056,
+        "response_channel": 1282372324368056320,
+        "transcription_channel": 1282371819642290312
+    },
+    "default_language": "fr"
+}
