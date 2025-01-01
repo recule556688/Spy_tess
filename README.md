@@ -144,4 +144,6 @@ See also the list of [contributors](https://github.com/recule556688/Spy_tess/con
 - Hat tip to anyone whose code was used
 - Inspiration from the strategic maneuvers of the Cold War between the USA and Russia, with a little wink to China for their innovative surveillance techniques. Remember, even in the digital world, it's all about who can hear you first! 😉
 - References
-- Special thanks to Vladimir Putin for inspiring us with his "transparent" approach to privacy. Here's a totally-not-monitored gif of him 😏 ![Putin's Best Moments](https://media.giphy.com/media/3o6ZsUJ44ffpnAW7Dy/giphy.gif)
+- Special thanks to Vladimir Putin for inspiring us with his "transparent" approach to privacy.  
+  Here's a totally-not-monitored gif of him 😏  
+  ![Putin's Best Moments](https://media.giphy.com/media/3o6ZsUJ44ffpnAW7Dy/giphy.gif)
