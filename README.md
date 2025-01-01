@@ -1,10 +1,10 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="https://i.imgur.com/FxL5qM0.jpg" alt="Bot logo">
+    <img width=400px height=220px src="assets/logo.png" alt="Bot logo">
   </a>
 </p>
 
-<h3 align="center">Discord Transcription Bot</h3>
+<h3 align="center">Discord Spy Bot</h3>
 
 <div align="center">
 
@@ -142,5 +142,4 @@ See also the list of [contributors](https://github.com/recule556688/Spy_tess/con
 - Hat tip to anyone whose code was used
 - Inspiration from the strategic maneuvers of the Cold War between the USA and Russia, with a little wink to China for their innovative surveillance techniques. Remember, even in the digital world, it's all about who can hear you first! 😉
 - References
-- Special thanks to Vladimir Putin for inspiring us with his "transparent" approach to privacy. Here's a totally-not-monitored gif of him: ![Putin's Best Moments](https://media.giphy.com/media/3o6ZsUJ44ffpnAW7Dy/giphy.gif) 😏
-
+- Special thanks to Vladimir Putin for inspiring us with his "transparent" approach to privacy. Here's a totally-not-monitored gif of him 😏 ![Putin's Best Moments](https://media.giphy.com/media/3o6ZsUJ44ffpnAW7Dy/giphy.gif)
