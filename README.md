@@ -56,6 +56,14 @@ The bot can automatically join voice channels when users enter, start transcribi
 
 To use the bot, you have two options: auto-join and manual commands.
 
+## 🎯 Channel Configuration
+
+- **Configure Channels**: Set up your dedicated channels for transcription output and bot responses:
+  ```bash
+  /set_transcription_channel  # Channel where transcripts will be posted
+  /set_response_channel       # Channel where bot responses will appear
+  ```
+
 ### Auto-Join Feature
 
 The bot can automatically join a voice channel when users enter, start transcribing, and leave when the channel is empty. This feature ensures seamless operation without manual intervention. To activate auto-join, use:
@@ -78,12 +86,6 @@ For manual control, you can use the following commands:
   ```
   /join
   /start_transcribing
-  ```
-
-- **Set Channels**: You can set the transcription and response channels using:
-  ```
-  /set_transcription_channel
-  /set_response_channel
   ```
 
 These commands allow you to manage the bot's behavior and channel settings manually.
